@@ -1,0 +1,5 @@
+<application>
+
+    <meta-data android:name="io.sentry.ndk.enable" android:value="false" />
+
+</application> 

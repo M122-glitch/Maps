@@ -1,0 +1,11 @@
+import * as Sentry from "@sentry/browser";
+
+try {
+
+  aFunctionThatMightFail();
+
+} catch (err) {
+
+  Sentry.captureException(err);
+
+} 

@@ -1,0 +1,1 @@
+sentry-cli releases files <release_name> upload-sourcemaps /path/to/files 

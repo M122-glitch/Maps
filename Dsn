@@ -1,0 +1,1 @@
+Sentry.init({ dsn: 'https://<key>@sentry.io/<project>' }); 

@@ -1,0 +1,13 @@
+{
+
+  "compilerOptions": {
+
+    "sourceMap": true,
+
+    "inlineSources": true,
+
+    "sourceRoot": "/"
+
+  }
+
+} 

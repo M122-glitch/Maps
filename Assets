@@ -1,0 +1,3 @@
+GET /assets/bundle.min.js
+
+X-Sentry-Token: {token} 

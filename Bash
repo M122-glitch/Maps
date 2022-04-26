@@ -1,0 +1,5 @@
+uglifyjs app.js \
+
+  -o app.min.js.map \
+
+  --source-map url=app.min.js.map,includeSources 

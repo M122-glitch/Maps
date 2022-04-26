@@ -1,0 +1,7 @@
+<manifest>
+
+    <!-- Merging strategy for the imported manifests -->
+
+    <uses-sdk tools:overrideLibrary="io.sentry.android" />
+
+</manifest> 

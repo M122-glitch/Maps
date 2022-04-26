@@ -1,0 +1,6 @@
+<application>
+    <meta-data android:name="io.sentry.dsn" android:value="https://148ac208fa3d4195a707bdbcaeb75bae@o1220809.ingest.sentry.io/6363937" />
+    <!-- Set tracesSampleRate to 1.0 to capture 100% of transactions for performance monitoring.
+       We recommend adjusting this value in production. -->
+    <meta-data android:name="io.sentry.traces.sample-rate" android:value="1.0" />
+</application>

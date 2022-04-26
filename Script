@@ -1,0 +1,23 @@
+<script>
+
+  Sentry.onLoad(function() {
+
+    Sentry.init({
+
+      release: " ... ",
+
+      environment: " ... "
+
+    });
+
+    Sentry.configureScope(scope => {
+
+      scope.setTag( ... );
+
+    });
+
+    // etc.
+
+  });
+
+</script>

@@ -1,0 +1,12 @@
+Sentry.init <application
+
+    android:extractNativeLibs="true"
+
+    ... >
+
+</application><application
+
+    android:extractNativeLibs="true"
+
+    ... >
+

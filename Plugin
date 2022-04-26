@@ -1,0 +1,19 @@
+const SentryPlugin = require("@sentry/webpack-plugin");
+
+module.exports = {
+
+  // ... other config above ...
+
+  plugins: [
+
+    new SentryPlugin({
+
+      release: process.env.RELEASE,
+
+      include: "./dist",
+
+    }),
+
+  ],
+
+}; 

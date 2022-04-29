@@ -1,0 +1,5 @@
+<manifest>
+
+    <meta-data android:name="io.sentry.traces.activity.auto-finish.enable" android:value="false" />
+
+</manifest> 

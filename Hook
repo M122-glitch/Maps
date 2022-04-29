@@ -1,0 +1,13 @@
+{
+
+  "Content-Type": "application/json",
+
+  "Request-ID": "<request_uuid>",
+
+  "Sentry-Hook-Resource": "<resource>",
+
+  "Sentry-Hook-Timestamp": "<timestamp>",
+
+  "Sentry-Hook-Signature": "<generated_signature>"
+
+} 

@@ -1,0 +1,9 @@
+import io.sentry.Sentry;
+
+ISpan span = Sentry.getSpan();
+
+if (span != null) {
+
+  span.finish();
+
+} 

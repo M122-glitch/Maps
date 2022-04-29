@@ -1,0 +1,15 @@
+sentry {
+
+    // List the build types that should be ignored (e.g. "release").
+
+    ignoredBuildTypes = ["release"]
+
+    // List the build flavors that should be ignored (e.g. "production").
+
+    ignoredFlavors = ["production"]
+
+    // List the build variant that should be ignored (e.g. "productionRelease").
+
+    ignoredVariants = ["productionRelease"]
+
+} 
